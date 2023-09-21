@@ -33,7 +33,7 @@ You can install these dependencies using pip:
 pip install numpy pandas scikit-learn jupyter matplotlib
 **Installation**
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/Diabetic_Prediction_Model.git
+git clone https://github.com/Loser7908/Diabetic-prediction-using-ml.git
 
 Change your working directory to the project folder:
 cd Diabetic_Prediction_Model
